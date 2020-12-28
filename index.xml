@@ -1,31 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>codex</title>
-    <link>https://thehalfspace.github.io/</link>
-    <description>Recent content on codex</description>
+    <title>thehalfspace</title>
+    <link>http://thehalfspace.github.io/</link>
+    <description>Recent content on thehalfspace</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>© 2020</copyright>
-    <lastBuildDate>Sun, 27 Dec 2020 23:49:25 +0530</lastBuildDate><atom:link href="https://thehalfspace.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 27 Dec 2020 23:49:25 +0530</lastBuildDate><atom:link href="http://thehalfspace.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://thehalfspace.github.io/about/</link>
+      <pubDate>Mon, 28 Dec 2020 11:26:13 +0530</pubDate>
+      
+      <guid>http://thehalfspace.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://thehalfspace.github.io/research/</link>
+      <pubDate>Mon, 28 Dec 2020 11:24:32 +0530</pubDate>
+      
+      <guid>http://thehalfspace.github.io/research/</guid>
+      <description>I am currently working on understanding the effect of low velocity zones surrounding an active fault on long term fault slip. Such a setting is common in mature faults like San Andreas, California, and Northern Anatolian, Turkey. We use mechanical models with prescribed stresses and friction to solve the elastodynamic equation of motion. The earthquake rupture sequences in the cycle happen spontaneously as a result of self-organized stresses, and is not defined by the user.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://thehalfspace.github.io/publications/</link>
+      <pubDate>Mon, 28 Dec 2020 11:22:43 +0530</pubDate>
+      
+      <guid>http://thehalfspace.github.io/publications/</guid>
+      <description>Thakur, P., Huang, Y., &amp;amp; Kaneko, Y. (2020). Effects of low‐velocity fault damage zones on long‐term earthquake behaviors on mature strike‐slip faults. Journal of Geophysical Research: Solid Earth, 125(8).
+  Thakur, P., Srivastava, D. C., &amp;amp; Gupta, P. K. (2020). HGA: A genetic algorithm method for direct estimation of paleostress states from heterogeneous fault-slip data. Journal of Structural Geology, 104084.
+  Ramos, M. D., Neo, J. C.</description>
+    </item>
+    
     <item>
       <title>Hello World</title>
-      <link>https://thehalfspace.github.io/posts/hello-world/</link>
+      <link>http://thehalfspace.github.io/blog/hello-world/</link>
       <pubDate>Sun, 27 Dec 2020 23:49:25 +0530</pubDate>
       
-      <guid>https://thehalfspace.github.io/posts/hello-world/</guid>
+      <guid>http://thehalfspace.github.io/blog/hello-world/</guid>
       <description>I got rid of my old website I created in Jekyll two years ago, primarily because I hadn&amp;rsquo;t updated that in a while and I forgot everything about ruby that I had learned in a couple of days to make that website. After a whole lot of procrastinating, I decided to try the new website in Hugo. I chose a pretty minimalist theme and I intend to modify it to create something of my own.</description>
     </item>
     
     <item>
       <title>Predicting Earthquakes</title>
-      <link>https://thehalfspace.github.io/posts/predicting-earthquakes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>http://thehalfspace.github.io/blog/predicting-earthquakes/</link>
+      <pubDate>Sun, 27 Dec 2020 23:49:25 +0530</pubDate>
       
-      <guid>https://thehalfspace.github.io/posts/predicting-earthquakes/</guid>
+      <guid>http://thehalfspace.github.io/blog/predicting-earthquakes/</guid>
       <description>I am taking a course on communicating your science in Winter 2018 and this post is a part of the assignment. I will try to continue writing more stuff like this.
 Are we having big earthquakes more often these days compared to the past?
-If we look at the data , the answer seems to be yes: a lot of big events happened after the year 2000! Most big earthquakes occur at the interface of continent and ocean boundaries, and therefore are usually followed by a series of tsunamis just as devastating as the earthquakes themselves.</description>
+If we look at the data, the answer seems to be yes: a lot of big events happened after the year 2000! Most big earthquakes occur at the interface of continent and ocean boundaries, and therefore are usually followed by a series of tsunamis just as devastating as the earthquakes themselves.</description>
     </item>
     
   </channel>
