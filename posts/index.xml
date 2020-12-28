@@ -17,5 +17,16 @@
       <description>I got rid of my old website I created in Jekyll two years ago, primarily because I hadn&amp;rsquo;t updated that in a while and I forgot everything about ruby that I had learned in a couple of days to make that website. After a whole lot of procrastinating, I decided to try the new website in Hugo. I chose a pretty minimalist theme and I intend to modify it to create something of my own.</description>
     </item>
     
+    <item>
+      <title>Predicting Earthquakes</title>
+      <link>https://thehalfspace.github.io/posts/predicting-earthquakes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thehalfspace.github.io/posts/predicting-earthquakes/</guid>
+      <description>I am taking a course on communicating your science in Winter 2018 and this post is a part of the assignment. I will try to continue writing more stuff like this.
+Are we having big earthquakes more often these days compared to the past?
+If we look at the data , the answer seems to be yes: a lot of big events happened after the year 2000! Most big earthquakes occur at the interface of continent and ocean boundaries, and therefore are usually followed by a series of tsunamis just as devastating as the earthquakes themselves.</description>
+    </item>
+    
   </channel>
 </rss>
