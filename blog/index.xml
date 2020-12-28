@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on thehalfspace</title>
+    <title>Blogs on home</title>
     <link>http://thehalfspace.github.io/blog/</link>
-    <description>Recent content in Blogs on thehalfspace</description>
+    <description>Recent content in Blogs on home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 27 Dec 2020 23:49:25 +0530</lastBuildDate><atom:link href="http://thehalfspace.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <pubDate>Sun, 27 Dec 2020 23:49:25 +0530</pubDate>
       
       <guid>http://thehalfspace.github.io/blog/hello-world/</guid>
-      <description>I got rid of my old website I created in Jekyll two years ago, primarily because I hadn&amp;rsquo;t updated that in a while and I forgot everything about ruby that I had learned in a couple of days to make that website. After a whole lot of procrastinating, I decided to try the new website in Hugo. I chose a pretty minimalist theme and I intend to modify it to create something of my own.</description>
+      <description>I got rid of my old website I created in Jekyll two years ago, primarily because I hadn&amp;rsquo;t updated that in a while and I forgot everything about ruby that I had learned in a couple of days to make that website. After a whole lot of procrastinating, I decided to try the new website in Hugo. I chose a pretty simple theme and I intend to modify it to create something of my own.</description>
     </item>
     
     <item>
