@@ -6,7 +6,17 @@
     <description>Recent content on thehalfspace</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Dec 2020 23:49:25 +0530</lastBuildDate><atom:link href="http://thehalfspace.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Dec 2020 11:24:32 +0530</lastBuildDate><atom:link href="http://thehalfspace.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Start here</title>
+      <link>http://thehalfspace.github.io/music/intro-music/</link>
+      <pubDate>Wed, 30 Dec 2020 11:24:32 +0530</pubDate>
+      
+      <guid>http://thehalfspace.github.io/music/intro-music/</guid>
+      <description>I started out as an amateur bedroom guitarist in high school and now I&amp;rsquo;m getting a little more into audio recording and music production, still in the bedroom. Unlike the typical bedroom music studio where people convert their spare bedroom into a mini music studio, my bedroom studio is my actual bedroom where I sleep and make music, and also work (during covid).
+Here are some of my amateur(ish) incomplete demos:</description>
+    </item>
+    
     <item>
       <title>Creating this website with Hugo and Github</title>
       <link>http://thehalfspace.github.io/blog/creating-this-site/</link>
@@ -17,6 +27,17 @@
 I followed these steps:
   I followed the first few steps directly from the getting started guide of hugo, where I installed it using brew, created an empty site and initialized it with git.
   Now this second part is really really hard, which involves choosing a theme.</description>
+    </item>
+    
+    <item>
+      <title>My music and audio gear</title>
+      <link>http://thehalfspace.github.io/music/my-gear/</link>
+      <pubDate>Tue, 29 Dec 2020 23:49:25 +0530</pubDate>
+      
+      <guid>http://thehalfspace.github.io/music/my-gear/</guid>
+      <description>These are not sponsored. I am just trying to create content for my website.
+I am trying to write about the budget home recording setup that I have here. WIP, this may be incomplete if you see it now.
+Check out some recordings I did with these setup here</description>
     </item>
     
     <item>

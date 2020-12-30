@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://thehalfspace.github.io/music/</loc>
+    <lastmod>2020-12-30T11:24:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thehalfspace.github.io/music/intro-music/</loc>
+    <lastmod>2020-12-30T11:24:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thehalfspace.github.io/</loc>
+    <lastmod>2020-12-30T11:24:32+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://thehalfspace.github.io/blog/</loc>
     <lastmod>2020-12-29T23:49:25+05:30</lastmod>
   </url>
@@ -13,12 +28,22 @@
   </url>
   
   <url>
+    <loc>http://thehalfspace.github.io/tags/music/</loc>
+    <lastmod>2020-12-29T23:49:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thehalfspace.github.io/music/my-gear/</loc>
+    <lastmod>2020-12-29T23:49:25+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://thehalfspace.github.io/blog/predicting-earthquakes/</loc>
     <lastmod>2020-12-29T23:49:25+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://thehalfspace.github.io/</loc>
+    <loc>http://thehalfspace.github.io/tags/</loc>
     <lastmod>2020-12-29T23:49:25+05:30</lastmod>
   </url>
   
@@ -60,10 +85,6 @@
   
   <url>
     <loc>http://thehalfspace.github.io/series/</loc>
-  </url>
-  
-  <url>
-    <loc>http://thehalfspace.github.io/tags/</loc>
   </url>
   
 </urlset>
