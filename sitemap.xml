@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://thehalfspace.github.io/</loc>
+    <lastmod>2020-12-30T11:24:32+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://thehalfspace.github.io/music/</loc>
     <lastmod>2020-12-30T11:24:32+05:30</lastmod>
   </url>
   
   <url>
     <loc>http://thehalfspace.github.io/music/intro-music/</loc>
-    <lastmod>2020-12-30T11:24:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://thehalfspace.github.io/</loc>
     <lastmod>2020-12-30T11:24:32+05:30</lastmod>
   </url>
   
@@ -77,6 +77,10 @@
   
   <url>
     <loc>http://thehalfspace.github.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://thehalfspace.github.io/media/</loc>
   </url>
   
   <url>
