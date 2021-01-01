@@ -6,7 +6,18 @@
     <description>Recent content in Media Folder on thehalfspace</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Dec 2020 11:24:32 +0530</lastBuildDate><atom:link href="http://thehalfspace.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Dec 2020 23:49:25 +0530</lastBuildDate><atom:link href="http://thehalfspace.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My music and audio gear</title>
+      <link>http://thehalfspace.github.io/music/my-gear/</link>
+      <pubDate>Thu, 31 Dec 2020 23:49:25 +0530</pubDate>
+      
+      <guid>http://thehalfspace.github.io/music/my-gear/</guid>
+      <description>These are not sponsored. I am just trying to create content for my website.
+I am trying to write about the budget home recording setup that I have here. WIP, this may be incomplete if you see it now.
+Check out some recordings I did with these setup here</description>
+    </item>
+    
     <item>
       <title>Start here</title>
       <link>http://thehalfspace.github.io/music/intro-music/</link>
@@ -27,17 +38,6 @@ Here are some of my amateur(ish) incomplete demos:</description>
 I followed these steps:
   I followed the first few steps directly from the getting started guide of hugo, where I installed it using brew, created an empty site and initialized it with git.
   Now this second part is really really hard, which involves choosing a theme.</description>
-    </item>
-    
-    <item>
-      <title>My music and audio gear</title>
-      <link>http://thehalfspace.github.io/music/my-gear/</link>
-      <pubDate>Tue, 29 Dec 2020 23:49:25 +0530</pubDate>
-      
-      <guid>http://thehalfspace.github.io/music/my-gear/</guid>
-      <description>These are not sponsored. I am just trying to create content for my website.
-I am trying to write about the budget home recording setup that I have here. WIP, this may be incomplete if you see it now.
-Check out some recordings I did with these setup here</description>
     </item>
     
     <item>
@@ -97,7 +97,7 @@ I don&amp;rsquo;t really have a niche so I will talk about everything I can: ear
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://thehalfspace.github.io/contact/</guid>
-      <description>Feel free to reach out to me at thehalfspace@pm.me or on twitter</description>
+      <description>Feel free to reach out to me on twitter, GitHub, or via email.</description>
     </item>
     
   </channel>
