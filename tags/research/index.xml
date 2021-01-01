@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>research on thehalfspace</title>
+    <link>http://thehalfspace.github.io/tags/research/</link>
+    <description>Recent content in research on thehalfspace</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 29 Dec 2020 23:49:25 +0530</lastBuildDate><atom:link href="http://thehalfspace.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Predicting Earthquakes</title>
+      <link>http://thehalfspace.github.io/posts/predicting-earthquakes/</link>
+      <pubDate>Tue, 29 Dec 2020 23:49:25 +0530</pubDate>
+      
+      <guid>http://thehalfspace.github.io/posts/predicting-earthquakes/</guid>
+      <description>I am taking a course on communicating your science in Winter 2018 and this post is a part of the assignment. I will try to continue writing more stuff like this.
+Are we having big earthquakes more often these days compared to the past?
+If we look at the data, the answer seems to be yes: a lot of big events happened after the year 2000! Most big earthquakes occur at the interface of continent and ocean boundaries, and therefore are usually followed by a series of tsunamis just as devastating as the earthquakes themselves.</description>
+    </item>
+    
+  </channel>
+</rss>
