@@ -1,99 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>http://thehalfspace.github.io/music/</loc>
     <lastmod>2021-01-02T11:24:32+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://thehalfspace.github.io/</loc>
     <lastmod>2020-12-31T23:49:25+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://thehalfspace.github.io/tags/music/</loc>
     <lastmod>2020-12-31T23:49:25+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://thehalfspace.github.io/posts/my-gear/</loc>
     <lastmod>2020-12-31T23:49:25+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://thehalfspace.github.io/posts/</loc>
     <lastmod>2020-12-31T23:49:25+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://thehalfspace.github.io/tags/</loc>
     <lastmod>2020-12-31T23:49:25+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://thehalfspace.github.io/posts/creating-this-site/</loc>
     <lastmod>2020-12-29T23:49:25+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://thehalfspace.github.io/posts/predicting-earthquakes/</loc>
     <lastmod>2020-12-29T23:49:25+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://thehalfspace.github.io/tags/research/</loc>
     <lastmod>2020-12-29T23:49:25+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://thehalfspace.github.io/tags/tech/</loc>
     <lastmod>2020-12-29T23:49:25+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://thehalfspace.github.io/about/</loc>
     <lastmod>2020-12-28T11:26:13+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://thehalfspace.github.io/research/</loc>
     <lastmod>2020-12-28T11:24:32+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://thehalfspace.github.io/publications/</loc>
     <lastmod>2020-12-28T11:22:43+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://thehalfspace.github.io/posts/hello-world/</loc>
     <lastmod>2020-12-27T23:49:25+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://thehalfspace.github.io/authors/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://thehalfspace.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://thehalfspace.github.io/contact/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://thehalfspace.github.io/media/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://thehalfspace.github.io/tags/misc./</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://thehalfspace.github.io/series/</loc>
   </url>
-  
 </urlset>
